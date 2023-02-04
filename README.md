@@ -34,6 +34,6 @@ In this mode, the token will be obtained through the bridge method called `getTo
 
 - Both support webview and browser development mode
 - Support over 20+ storybook components
-- Login-free by reading local token from .token file
+- Login-free by reading token form local file in browser
 - Route-level KeepAlive
 - Built-in webpack OfflinePackagePlugin
