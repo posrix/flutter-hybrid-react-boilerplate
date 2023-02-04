@@ -6,7 +6,7 @@
 npm run start:web
 ```
 
-Starts the development server running on `http://localhost:3080`
+Starts the development server running on `http://localhost:3080`, This mode will read token from the local `.token` file.
 
 
 ## Development in WebView
@@ -15,6 +15,7 @@ Starts the development server running on `http://localhost:3080`
 npm run start
 ```
 
+In this mode, the token will be obtained through the bridge method called `getToken`.
 
 ### Technologies
 
