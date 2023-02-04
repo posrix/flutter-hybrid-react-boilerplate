@@ -1,5 +1,21 @@
 :rice_ball: A flutter hybrid react boilerplate depend on [inappwebview](https://inappwebview.dev/)
 
+## Development in Browser
+
+```Shell
+npm run start:web
+```
+
+Starts the development server running on `http://localhost:3080`
+
+
+## Development in WebView
+
+```Shell
+npm run start
+```
+
+
 ### Technologies
 
 - react@17
